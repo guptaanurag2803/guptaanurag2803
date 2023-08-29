@@ -1,14 +1,3 @@
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/D4D03AQFgCPwXi8ylBg/profile-displayphoto-shrink_400_400/0/1665769346899?e=1698883200&v=beta&t=y-4UTX4xcTxhjOM3iDVLrScDRpwGI9xGChWnPk4x5Bs"  />
-</div>
-
-###
-
-<p align="left"></p>
-
-###
-
-
 <h1 align="center">Hi 👋, I'm Anurag Gupta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
@@ -23,7 +12,6 @@
   <a href="https://www.linkedin.com/in/anurag-gupta-84bb531b7/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
